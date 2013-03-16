@@ -10,7 +10,8 @@
 <title>表格布局</title>
 </head>
 <body style="overflow: hidden;padding: 0px;background-color: #fafafa">
-	<table id="tt" class="easyui-datagrid" style="width:400px;height:auto;">  
+	<table id="userInfo" class="easyui-datagrid" data-options="fit:true,fitColumns:true,singleSelect:true,loadMsg:'加载数据...',
+	pagination:true, title:'数据列表', rownumbers:true, iconCls:'icon-grid',scrollbarSize:0" style="display: none">  
 		<thead>  
 			<tr>  
 			    <th field="name1" width="50" rowspan="2">Col 1</th>  
