@@ -7,7 +7,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>模板</title>
+<title>首页</title>
 </head>
 <body style="overflow: hidden;padding: 0px;background-color: #fafafa">
 	<div id="cc" class="easyui-layout" data-options="fit:true">
