@@ -7,7 +7,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>表格</title>
+<title>表格布局</title>
 </head>
 <body style="overflow: hidden;padding: 0px;background-color: #fafafa">
 	<table id="userInfo" class="easyui-datagrid" data-options="fit:true,fitColumns:true,singleSelect:true,loadMsg:'加载数据...',
