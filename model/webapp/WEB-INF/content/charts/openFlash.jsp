@@ -18,7 +18,7 @@ function loadFlash(){
 ////////////////////////////////////////////////////绘制曲线结束//////////////////////////////////////////////////
 $(document).ready(function(){
 	swfobject.embedSWF("${ctx}/common/open-flash-chart.swf", "my_chart", "100%", "100%", "10.0.0",
-			null,{"data-file":escape("${ctx }/charts/line-on-click.txt")},{wmode:"transparent"});
+			null,{"data-file":escape("${ctx }/data/line-on-click.txt")},{wmode:"transparent"});
 });
 </script>
 </head>
