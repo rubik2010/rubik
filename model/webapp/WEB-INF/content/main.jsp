@@ -21,6 +21,10 @@
 				    		<a class="easyui-linkbutton" href="javascript:OpenTab('表格布局—示例一','${ctx }/module/main.action?type=/datagrid/datagrid');" 
 				    		data-options="plain:true,iconCls:'icon-ok'">1、示例一</a>
 				    	</div>
+				    	<div>
+				    		<a class="easyui-linkbutton" href="javascript:OpenTab('模拟桌面','${ctx }/module/main.action?type=/layout/desktop');" 
+				    		data-options="plain:true,iconCls:'icon-ok'">1、模拟桌面</a>
+				    	</div>
 				    </div>  
 				    <div title="Flash绘图" data-options="iconCls:'icon-ok',selected:true" style="padding:5px">
 				    	<div>
